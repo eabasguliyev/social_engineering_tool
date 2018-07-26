@@ -1,0 +1,168 @@
+<div class="class_1532616221">
+	<table border="0" cellspacing="0" cellpadding="0" align="center" id="email_table_mailru_css_attribute_postfix" style="border-collapse:collapse;">
+		<tbody>
+			<tr>
+				<td id="email_content_mailru_css_attribute_postfix" style="font-family:Helvetica Neue,Helvetica,Lucida Grande,tahoma,verdana,arial,sans-serif;background:#ffffff;">
+					<table border="0" width="100%" cellspacing="0" cellpadding="0" style="border-collapse:collapse;">
+						<tbody>
+							<tr>
+								<td height="20" style="line-height:20px;" colspan="3">&nbsp;</td>
+							</tr>
+							<tr>
+								<td height="1" colspan="3" style="line-height:1px;"></td>
+							</tr>
+							<tr>
+								<td>
+									<table border="0" width="100%" cellspacing="0" cellpadding="0" style="border-collapse:collapse;border:solid 1px white;margin:0 auto 5px auto;padding:3px 0;text-align:center;htmlwidth:100%;width:430px;">
+										<tbody>
+											<tr>
+												<td width="15px" style="width:15px;"></td>
+												<td style="line-height:0px;width:400px;padding:0 0 15px 0;">
+													<table border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse;">
+														<tbody>
+															<tr>
+																<td style="width:100%;text-align:left;height:33px;">
+																	<img height="33" src="https://proxy.imgsmail.ru?email=afa.ben%40mail.ru&amp;e=1532870566&amp;h=CvmSxXRidJF-cEmmvGHzLg&amp;url171=c3RhdGljLnh4LmZiY2RuLm5ldC9yc3JjLnBocC92My95eC9yL1FmeUlDdXVCNHBnLnBuZw~~&amp;is_https=1" style="border:0;">
+																	</td>
+																</tr>
+															</tbody>
+														</table>
+													</td>
+													<td width="15px" style="width:15px;"></td>
+												</tr>
+												<tr>
+													<td width="15px" style="width:15px;"></td>
+													<td style="border-top:solid 1px #c8c8c8;"></td>
+													<td width="15px" style="width:15px;"></td>
+												</tr>
+											</tbody>
+										</table>
+									</td>
+								</tr>
+								<tr>
+									<td>
+										<table border="0" width="430" cellspacing="0" cellpadding="0" style="border-collapse:collapse;margin:0 auto 0 auto;">
+											<tbody>
+												<tr>
+													<td>
+														<table border="0" width="430px" cellspacing="0" cellpadding="0" style="border-collapse:collapse;margin:0 auto 0 auto;width:430px;">
+															<tbody>
+																<tr>
+																	<td width="15" style="display:block;width:15px;">&nbsp;&nbsp;&nbsp;</td>
+																</tr>
+																<tr>
+																	<td>
+																		<table border="0" width="100%" cellspacing="0" cellpadding="0" style="border-collapse:collapse;">
+																			<tbody>
+																				<tr>
+																					<td>
+																						<table border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse;">
+																							<tbody>
+																								<tr>
+																									<td width="20" style="display:block;width:20px;">&nbsp;&nbsp;&nbsp;</td>
+																									<td>
+																										<table border="0" cellspacing="0" cellpadding="0" style="border-collapse:collapse;">
+																											<tbody>
+																												<tr>
+																													<td></td>
+																												</tr>
+																												<tr>
+																													<td>
+																														<p style="padding:0;margin:10px 0 10px 0;color:#565a5c;font-size:18px;">Hi {username},</p>
+																														<p style="padding:0;margin:10px 0 10px 0;color:#565a5c;font-size:18px;">We got a request to reset your Instagram password.</p>
+																													</td>
+																												</tr>
+																												<tr></tr>
+																												<tr>
+																													<td height="10" style="line-height:10px;" colspan="1">&nbsp;</td>
+																												</tr>
+																												<tr>
+																													<td>
+																														<a href="{link}" style="color:#3b5998;text-decoration:none;display:block;width:370px;" target="_blank" rel=" noopener noreferrer">
+																															<table border="0" width="390" cellspacing="0" cellpadding="0" style="border-collapse:collapse;">
+																																<tbody>
+																																	<tr>
+																																		<td style="border-collapse:collapse;border-radius:3px;text-align:center;display:block;border:solid 1px #009fdf;padding:10px 16px 14px 16px;margin:0 2px 0 auto;min-width:80px;background-color:#47A2EA;">
+																																			<a href="{link}" style="color:#3b5998;text-decoration:none;display:block;" target="_blank" rel=" noopener noreferrer">
+																																				<center>
+																																					<font size="3">
+																																						<span style="font-family:Helvetica Neue,Helvetica,Roboto,Arial,sans-serif;white-space:nowrap;font-weight:bold;vertical-align:middle;color:#fdfdfd;font-size:16px;line-height:16px;">Reset&nbsp;Password</span>
+																																					</font>
+																																				</center>
+																																			</a>
+																																		</td>
+																																	</tr>
+																																</tbody>
+																															</table>
+																														</a>
+																													</td>
+																												</tr>
+																												<tr>
+																													<td height="10" style="line-height:10px;" colspan="1">&nbsp;</td>
+																												</tr>
+																												<tr>
+																													<td>
+																														<p style="padding:0;margin:10px 0 10px 0;color:#565a5c;font-size:18px;">If you ignore this message, your password will not be changed. If you didn't request a password reset, 
+																															<a href="https://instagram.com/accounts/password/report/1i2eml9/" style="color:#3b5998;text-decoration:none;" target="_blank" rel=" noopener noreferrer">let us know</a>.
+																														</p>
+																													</td>
+																												</tr>
+																											</tbody>
+																										</table>
+																									</td>
+																									<td width="20" style="display:block;width:20px;">&nbsp;&nbsp;&nbsp;</td>
+																								</tr>
+																							</tbody>
+																						</table>
+																					</td>
+																				</tr>
+																			</tbody>
+																		</table>
+																	</td>
+																</tr>
+															</tbody>
+														</table>
+													</td>
+												</tr>
+											</tbody>
+										</table>
+									</td>
+								</tr>
+								<tr>
+									<td>
+										<table border="0" width="430px" cellspacing="0" cellpadding="0" style="border-collapse:collapse;margin:0 auto 0 auto;width:430px;">
+											<tbody>
+												<tr>
+													<td height="30" style="line-height:30px;" colspan="3">&nbsp;</td>
+												</tr>
+												<tr>
+													<td width="20" style="display:block;width:20px;">&nbsp;&nbsp;&nbsp;</td>
+													<td>
+														<div style="color:#abadae;font-size:12px;margin:0 auto 5px auto;">© Instagram, 1 Hacker Way, Menlo Park, CA 94025
+															<br>
+															</div>
+															<div style="color:#abadae;font-size:12px;margin:0 auto 5px auto;">This message was sent to 
+																<a style="color:#abadae;text-decoration:underline;" rel="noopener">{mail}</a> and intended for 01100101_01100001. Not your account? 
+																<a href="https://instagram.com/accounts/remove/report_wrong_email/1i2eml9/4y7-b25befd40040ceee3e2582e284c016db/7Q5obeTm/YWZhLmJlbkBtYWlsLnJ1/" style="color:#abadae;text-decoration:underline;" target="_blank" rel=" noopener noreferrer">Remove your email</a> from this account.
+																<br>
+																</div>
+															</td>
+															<td width="20" style="display:block;width:20px;">&nbsp;&nbsp;&nbsp;</td>
+														</tr>
+													</tbody>
+												</table>
+											</td>
+										</tr>
+										<tr>
+											<td height="20" style="line-height:20px;" colspan="3">&nbsp;</td>
+										</tr>
+									</tbody>
+								</table>
+								<span>
+									<img src="https://proxy.imgsmail.ru?email=afa.ben%40mail.ru&amp;e=1532870566&amp;h=2iRDaFv07DjOpeG59xWaGw&amp;url171=d3d3LmZhY2Vib29rLmNvbS9lbWFpbF9vcGVuX2xvZ19waWMucGhwP21pZD1ITVRVek1qWXhNREV5T1RBek5UZ3pNVHBoWm1FdVltVnVRRzFoYVd3dWNuVTZOVGcw&amp;is_https=1" style="border:0;width:1px;height:1px;">
+									</span>
+								</td>
+							</tr>
+						</tbody>
+					</table>
+				</div>
